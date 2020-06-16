@@ -1,0 +1,13 @@
+b33f8532a496af20953c964dd50b6541 *DESCRIPTION
+12dd0dc1220b7e24180276832b17caca *NAMESPACE
+bd15fca44294f8bd1d13ea65785b1bdf *R/bcfrailph.R
+1b8ae203a35791a530804eb7743db0fa *R/bcfrailph.control.R
+bfc26be5afa38da013ed785851d08bf5 *R/print.bcfrailph.R
+de430343a65cb0fb30a9207090e3e276 *R/simbcfrailph.R
+4fa958f45963d2a27c2c57ed87c603b3 *R/summary.bcfrailph.R
+d6ffb85504b13f96a574f9a5406d349d *R/utilities.R
+8d4c42828375cb0042c34d01eb60f1a1 *man/bcfrailph.Rd
+4191e33baea6f9656da0b35533a5008d *man/bcfrailph.control.Rd
+481ea4fb015431a76a1b615b280baefc *man/print.bcfrailph.Rd
+3be489c1736c82135b9790f48390c258 *man/simbcfrailph.Rd
+d9f0e5fdf644c5dba4e71a82477b622a *man/summary.bcfrailph.Rd
